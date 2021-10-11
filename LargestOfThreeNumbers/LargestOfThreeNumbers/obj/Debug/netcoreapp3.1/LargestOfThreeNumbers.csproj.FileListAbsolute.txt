@@ -1,0 +1,14 @@
+H:\C#\Assignment Day5\LargestOfThreeNumbers\LargestOfThreeNumbers\bin\Debug\netcoreapp3.1\LargestOfThreeNumbers.exe
+H:\C#\Assignment Day5\LargestOfThreeNumbers\LargestOfThreeNumbers\bin\Debug\netcoreapp3.1\LargestOfThreeNumbers.deps.json
+H:\C#\Assignment Day5\LargestOfThreeNumbers\LargestOfThreeNumbers\bin\Debug\netcoreapp3.1\LargestOfThreeNumbers.runtimeconfig.json
+H:\C#\Assignment Day5\LargestOfThreeNumbers\LargestOfThreeNumbers\bin\Debug\netcoreapp3.1\LargestOfThreeNumbers.runtimeconfig.dev.json
+H:\C#\Assignment Day5\LargestOfThreeNumbers\LargestOfThreeNumbers\bin\Debug\netcoreapp3.1\LargestOfThreeNumbers.dll
+H:\C#\Assignment Day5\LargestOfThreeNumbers\LargestOfThreeNumbers\bin\Debug\netcoreapp3.1\LargestOfThreeNumbers.pdb
+H:\C#\Assignment Day5\LargestOfThreeNumbers\LargestOfThreeNumbers\obj\Debug\netcoreapp3.1\LargestOfThreeNumbers.csproj.AssemblyReference.cache
+H:\C#\Assignment Day5\LargestOfThreeNumbers\LargestOfThreeNumbers\obj\Debug\netcoreapp3.1\LargestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Assignment Day5\LargestOfThreeNumbers\LargestOfThreeNumbers\obj\Debug\netcoreapp3.1\LargestOfThreeNumbers.AssemblyInfoInputs.cache
+H:\C#\Assignment Day5\LargestOfThreeNumbers\LargestOfThreeNumbers\obj\Debug\netcoreapp3.1\LargestOfThreeNumbers.AssemblyInfo.cs
+H:\C#\Assignment Day5\LargestOfThreeNumbers\LargestOfThreeNumbers\obj\Debug\netcoreapp3.1\LargestOfThreeNumbers.csproj.CoreCompileInputs.cache
+H:\C#\Assignment Day5\LargestOfThreeNumbers\LargestOfThreeNumbers\obj\Debug\netcoreapp3.1\LargestOfThreeNumbers.dll
+H:\C#\Assignment Day5\LargestOfThreeNumbers\LargestOfThreeNumbers\obj\Debug\netcoreapp3.1\LargestOfThreeNumbers.pdb
+H:\C#\Assignment Day5\LargestOfThreeNumbers\LargestOfThreeNumbers\obj\Debug\netcoreapp3.1\LargestOfThreeNumbers.genruntimeconfig.cache

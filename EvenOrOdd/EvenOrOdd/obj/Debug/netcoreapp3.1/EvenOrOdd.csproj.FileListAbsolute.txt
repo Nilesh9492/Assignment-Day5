@@ -1,0 +1,14 @@
+H:\C#\Assignment Day5\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.exe
+H:\C#\Assignment Day5\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.deps.json
+H:\C#\Assignment Day5\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.json
+H:\C#\Assignment Day5\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.dev.json
+H:\C#\Assignment Day5\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.dll
+H:\C#\Assignment Day5\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.pdb
+H:\C#\Assignment Day5\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csproj.AssemblyReference.cache
+H:\C#\Assignment Day5\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Assignment Day5\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfoInputs.cache
+H:\C#\Assignment Day5\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfo.cs
+H:\C#\Assignment Day5\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csproj.CoreCompileInputs.cache
+H:\C#\Assignment Day5\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.dll
+H:\C#\Assignment Day5\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.pdb
+H:\C#\Assignment Day5\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.genruntimeconfig.cache

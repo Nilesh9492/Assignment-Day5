@@ -1,0 +1,14 @@
+H:\C#\Assignment Day5\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.exe
+H:\C#\Assignment Day5\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.deps.json
+H:\C#\Assignment Day5\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.json
+H:\C#\Assignment Day5\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.dev.json
+H:\C#\Assignment Day5\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.dll
+H:\C#\Assignment Day5\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.pdb
+H:\C#\Assignment Day5\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.AssemblyReference.cache
+H:\C#\Assignment Day5\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Assignment Day5\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfoInputs.cache
+H:\C#\Assignment Day5\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfo.cs
+H:\C#\Assignment Day5\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.CoreCompileInputs.cache
+H:\C#\Assignment Day5\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.dll
+H:\C#\Assignment Day5\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.pdb
+H:\C#\Assignment Day5\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.genruntimeconfig.cache

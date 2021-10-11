@@ -1,0 +1,14 @@
+H:\C#\Assignment Day5\QuotientAndRemainder\QuotientAndRemainder\bin\Debug\netcoreapp3.1\QuotientAndRemainder.exe
+H:\C#\Assignment Day5\QuotientAndRemainder\QuotientAndRemainder\bin\Debug\netcoreapp3.1\QuotientAndRemainder.deps.json
+H:\C#\Assignment Day5\QuotientAndRemainder\QuotientAndRemainder\bin\Debug\netcoreapp3.1\QuotientAndRemainder.runtimeconfig.json
+H:\C#\Assignment Day5\QuotientAndRemainder\QuotientAndRemainder\bin\Debug\netcoreapp3.1\QuotientAndRemainder.runtimeconfig.dev.json
+H:\C#\Assignment Day5\QuotientAndRemainder\QuotientAndRemainder\bin\Debug\netcoreapp3.1\QuotientAndRemainder.dll
+H:\C#\Assignment Day5\QuotientAndRemainder\QuotientAndRemainder\bin\Debug\netcoreapp3.1\QuotientAndRemainder.pdb
+H:\C#\Assignment Day5\QuotientAndRemainder\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.csproj.AssemblyReference.cache
+H:\C#\Assignment Day5\QuotientAndRemainder\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Assignment Day5\QuotientAndRemainder\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.AssemblyInfoInputs.cache
+H:\C#\Assignment Day5\QuotientAndRemainder\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.AssemblyInfo.cs
+H:\C#\Assignment Day5\QuotientAndRemainder\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.csproj.CoreCompileInputs.cache
+H:\C#\Assignment Day5\QuotientAndRemainder\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.dll
+H:\C#\Assignment Day5\QuotientAndRemainder\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.pdb
+H:\C#\Assignment Day5\QuotientAndRemainder\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.genruntimeconfig.cache

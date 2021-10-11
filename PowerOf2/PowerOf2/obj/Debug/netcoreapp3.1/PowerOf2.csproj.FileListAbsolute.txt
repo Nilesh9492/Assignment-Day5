@@ -1,0 +1,14 @@
+H:\C#\Assignment Day5\PowerOf2\PowerOf2\bin\Debug\netcoreapp3.1\PowerOf2.exe
+H:\C#\Assignment Day5\PowerOf2\PowerOf2\bin\Debug\netcoreapp3.1\PowerOf2.deps.json
+H:\C#\Assignment Day5\PowerOf2\PowerOf2\bin\Debug\netcoreapp3.1\PowerOf2.runtimeconfig.json
+H:\C#\Assignment Day5\PowerOf2\PowerOf2\bin\Debug\netcoreapp3.1\PowerOf2.runtimeconfig.dev.json
+H:\C#\Assignment Day5\PowerOf2\PowerOf2\bin\Debug\netcoreapp3.1\PowerOf2.dll
+H:\C#\Assignment Day5\PowerOf2\PowerOf2\bin\Debug\netcoreapp3.1\PowerOf2.pdb
+H:\C#\Assignment Day5\PowerOf2\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.csproj.AssemblyReference.cache
+H:\C#\Assignment Day5\PowerOf2\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Assignment Day5\PowerOf2\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.AssemblyInfoInputs.cache
+H:\C#\Assignment Day5\PowerOf2\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.AssemblyInfo.cs
+H:\C#\Assignment Day5\PowerOf2\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.csproj.CoreCompileInputs.cache
+H:\C#\Assignment Day5\PowerOf2\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.dll
+H:\C#\Assignment Day5\PowerOf2\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.pdb
+H:\C#\Assignment Day5\PowerOf2\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.genruntimeconfig.cache

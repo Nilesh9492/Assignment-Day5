@@ -1,0 +1,13 @@
+H:\C#\Assignment Day5\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Assignment Day5\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.AssemblyInfoInputs.cache
+H:\C#\Assignment Day5\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.AssemblyInfo.cs
+H:\C#\Assignment Day5\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.csproj.CoreCompileInputs.cache
+H:\C#\Assignment Day5\HarmonicNumber\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.exe
+H:\C#\Assignment Day5\HarmonicNumber\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.deps.json
+H:\C#\Assignment Day5\HarmonicNumber\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.runtimeconfig.json
+H:\C#\Assignment Day5\HarmonicNumber\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.runtimeconfig.dev.json
+H:\C#\Assignment Day5\HarmonicNumber\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.dll
+H:\C#\Assignment Day5\HarmonicNumber\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.pdb
+H:\C#\Assignment Day5\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.dll
+H:\C#\Assignment Day5\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.pdb
+H:\C#\Assignment Day5\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.genruntimeconfig.cache
